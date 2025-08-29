@@ -11,3 +11,19 @@
 
 ![Image of Yaktocat]()
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+```
+$ Comentário sobre Code blocks
+Aqui vai o texto...
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+```java
+int idade = 20;
+```
