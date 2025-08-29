@@ -27,3 +27,9 @@ var myVar = "Hello, world!";
 ```java
 int idade = 20;
 ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Everything ok
+- [ ] Run the code
